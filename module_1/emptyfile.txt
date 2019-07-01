@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Im working with Git
+=======
+Workikng with GIT
+>>>>>>> b0337203377ad001dbb0a6a90f0c04b99afafc35
