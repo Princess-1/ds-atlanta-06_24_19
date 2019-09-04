@@ -61,3 +61,41 @@ Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24
 | Morning Video|<a href= "https://youtu.be/D9BAZelP0Fs"> A/B Testing </a> <a href=""> </a>|<a href= "https://youtu.be/xDRChAXvVRU"> Bayesian Statistics</a> <a href=""> </a>|<a href= "https://youtu.be/90oFuIJGXhM"> Sampling</a> <a href=""> </a>| Afternoon code|||||
 | Afternoon Video|
 
+
+# Week 7
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warmup |
+| Morning code||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_1/day_1/Linear%20Regression.ipynb"> Linear Regression </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_1/day_2/Introduction%20Linear%20Algebra%20with%20Python.ipynb">Linear Algebra</a> <a href=""> </a>||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_1/day_4/Linear_Model_Extensions.ipynb">Linear Model Extensions</a> <a href=""> </a>|
+| Morning Video||<a href= "https://youtu.be/Z8568X_VUWI"> Linear Regression</a> <a href=""> </a>|<a href= "https://youtu.be/-9QHYBW0lKg"> Linear Algebra</a> <a href=""> </a>||<a href= "https://youtu.be/7OnjHJUbrMI"> Linear Model Extensions</a> <a href=""> </a>||
+|Afternoon code|||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_1/day_2/Multiple%20Regression.ipynb"> Multiple Regression </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_1/day_3/Gradient_Descent_ATL.ipynb"> Gradient_Descent </a> <a href=""> </a>|
+| Afternoon Video|||<a href= "https://youtu.be/hHCFIwZBH3g"> Multiple Linear Regression</a> <a href=""> </a>|<a href= "https://youtu.be/dS4ayyQrUck"> Gradient Descent</a> <a href=""> </a>
+
+# Week 8
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warmup |
+| Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_2/day_1/Logistic%20Regression.ipynb"> Logistic Regression </a> <a href=""> </a>||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_2/day_3/03.11-Working-with-Time-Series.ipynb">Working with Time Series Data</a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_2/day_4/time-series-analysis-NYC(Modified).ipynb">Time Series Analysis</a> <a href=""> </a>||
+| Morning Video|<a href= "https://youtu.be/vmbo-zDvrgg"> Logistic Regression</a> <a href=""> </a>||<a href= "https://youtu.be/P0dOJNurFs8"> Working with Time Series Data</a> <a href=""> </a>|<a href= "https://youtu.be/aXUzn8Js7Oc"> Time Series Analysis</a> <a href=""> </a>||
+|Afternoon code|||||
+| Afternoon Video||||
+
+# Week 9
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warmup |
+| Morning code|||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_1/day_1/Decision%20Trees.ipynb"> Decision Trees </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_1/day_2/Random%20Forest.ipynb">Random Forest</a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_1/day_3/SVM.ipynb">Support Vector Machines</a> <a href=""> </a>
+| Morning Video|||<a href= "https://youtu.be/UPc8TYaTwXE"> Decision Trees</a> <a href=""> </a>|<a href= "https://youtu.be/Y3DHp00QCIk"> Random Forest</a> <a href=""> </a>|<a href= "https://youtu.be/UzbcRx-nlbw"> Support Vector Machines</a> <a href=""> </a>
+|Afternoon code|||||
+| Afternoon Video||||
+
+# Week 10
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warmup |
+| Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_1/Dimension%20Reduction.ipynb"> Principal Component</a> <a href=""> </a>||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_6/pyspark-intro_ab_sydney.ipynb">PySpark</a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_7/recommendation_systems_ab_sydney.ipynb">Recommendation Systems</a> <a href=""> </a>
+| Morning Video|<a href= "https://youtu.be/YCVH6RUF6vY"> Prinicpal Component</a> <a href=""> </a>|
+|Afternoon code|||||
+| Afternoon Video||||
+
+
